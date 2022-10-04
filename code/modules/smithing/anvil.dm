@@ -28,7 +28,7 @@
 #define RECIPE_THROWING "dbd" //draw bend draw
 
 //Tablevil specific
-#define RECIPE_MACHREFORG "fdf" //fold draw punch
+#define RECIPE_MACHREFORG "fdf" //fold draw fold
 #define RECIPE_SCRAP "udsp" //upset draw shrink punch
 #define RECIPE_UNITOOL "bbb"  //bend bend bend
 
